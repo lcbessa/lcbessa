@@ -1,14 +1,14 @@
 <p style="text-align:right"> PT | <a href="https://github.com/lcbessa/lcbessa/blob/main/README.en-US.md">EN</a> </p>
 
-## Olá, meu nome é Luiz Carlos Bessa! 👋
+## Hello, My name's Luiz Carlos Bessa! 👋
 
 <img alt="GIF" src="https://media.giphy.com/media/l4FsCR2hFJnGh18IM/giphy.gif" width = 200/>
 
 ---
 
-- 🎓 Estudante de Ciência da Computação na Universidade Federal de Lavras - UFLA
-- 💻 Sempre em busca de aprender coisas novas e apaixonado por tecnologia
-- 📫 Você pode me encontrar nos links abaixo
+- 🎓 Computer Science at UFLA (Brazil)
+- 💻 Always looking to learn new things and passionate about technology
+- 📫 You can reach me with the links below
 
 <a target="_blank" href="https://www.linkedin.com/in/luizcarlosbessa/">
   <img align="left" alt="LinkedIN" width="25px" src="https://logospng.org/download/linkedin/logo-linkedin-icon-2048.png" /> </a>
@@ -23,19 +23,19 @@
 
 <br>
 
-### Meus hobbies favoritos
+### My favorite hobbies
 
-- :books: Leitura
-- :coffee: Café
+- :books: Reading
+- :coffee: Coffee
 - :computer: Codar
-- :headphones: Podcast e Músicas
-- :fries: Séries e filmes
-- :airplane: Viagens
+- :headphones: Podcast and Music
+- :fries: Series and Movies
+- :airplane: Trips
 - :video_game: Games
 
 ---
 
-### Linguagens e tecnologias que eu estudo
+### Languages and technologies that I study
 
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=c%2B%2B)
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)
@@ -50,7 +50,7 @@
 
 ![GIT](https://img.shields.io/badge/-GIT-05122A?style=flat&logo=git)&nbsp;
 
-### Linguagens e tecnologias que eu quero aprender
+### Languages and technologies I want to learn
 
 ![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)
@@ -62,7 +62,7 @@
 
 ---
 
-### Dados do GitHub
+### Git Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=lcbessa&show_icons=true&theme=blueberry)
 
