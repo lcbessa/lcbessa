@@ -58,6 +58,7 @@
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
 ![ReactJS](https://img.shields.io/badge/-ReactJS-05122A?style=flat&logo=react)
 ![React Native](https://img.shields.io/badge/-React%20Native-05122A?style=flat&logo=react)
+![C#](https://img.shields.io/badge/-CSharp-05122A?style=flat&logo=csharp)
 ![Swift](https://img.shields.io/badge/-Swift-05122A?style=flat&logo=swift)
 
 ---
