@@ -13,7 +13,7 @@
 <a target="_blank" href="https://www.linkedin.com/in/luizcarlosbessa/">
   <img align="left" alt="LinkedIN" width="25px" src="https://logospng.org/download/linkedin/logo-linkedin-icon-2048.png" /> </a>
 
-<a target="_blank" href="https://www.instagram.com/bessa.luizcarlos/">
+<a target="_blank" href="https://www.instagram.com/lcbessa9/">
   <img align="left" alt="Instagram" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1200px-Instagram_logo_2016.svg.png" />
 </a>
 
