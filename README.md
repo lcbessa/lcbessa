@@ -6,7 +6,7 @@
 
 ---
 
-- 🎓 Estudante de Ciência da Computação na Universidade Federal de Lavras - UFLA
+- 🎓 Bacharel em Ciência da Computação pela Universidade Federal de Lavras - UFLA
 - 💻 Sempre em busca de aprender coisas novas e apaixonado por tecnologia
 - 📫 Você pode me encontrar nos links abaixo
 
