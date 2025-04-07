@@ -6,7 +6,7 @@
 
 ---
 
-- 🎓 Computer Scientist at UFLA (Brazil)
+- 🎓 Computer Scientist - UFLA (Brazil)
 - 💻 Always looking to learn new things and passionate about technology
 - 📫 You can reach me with the links below
 
