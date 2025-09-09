@@ -37,11 +37,12 @@
 
 ### Languages and technologies that I study
 
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=c%2B%2B)
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=openjdk)
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)
-![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)
+![Spring Boot](https://img.shields.io/badge/-Spring_Boot-05122A?style=flat&logo=springboot)
 ![NodeJS](https://img.shields.io/badge/-NodeJS-05122A?style=flat&logo=node.js)
 ![Express](https://img.shields.io/badge/-ExpressJS-05122A?style=flat&logo=express)
+![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)
 
 ![HTML5](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
@@ -54,7 +55,6 @@
 
 ![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
 ![ReactJS](https://img.shields.io/badge/-ReactJS-05122A?style=flat&logo=react)
 ![React Native](https://img.shields.io/badge/-React%20Native-05122A?style=flat&logo=react)
